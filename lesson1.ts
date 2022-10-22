@@ -1,2 +1,2 @@
-let number1: string = "Hello World";
-console.log(number1);
+const var1: string = "Hello World";
+console.log(var1);
